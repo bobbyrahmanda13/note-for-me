@@ -12,3 +12,5 @@
 10. Sebelum teknisi melakukan kunjungan, teknisi akan meminta bantuan kepada admin service terkait dengan spart yang akan dibawa (Khusus untuk Barang yang tidak **Garansi**). setelah itu admin service wajib melakukan penginputan mutasi untuk pembelian spart service luar
 11. setelah melakukan penginputan, admin service wajib mengkonfirmasi kepada admin spart bahwasannya ada mutasi Service Luar(SL). setelah barangnya turun, admin service bertugas untuk membagikan mutasi spart **SL** kepada teknisi dan melakukan pengecekan bersama teknisi sebelum kunjungan
 12. setelah teknisi pulang admin service wajib melakukan penginputan pada laporan untuk mingguan
+> [!NOTE]
+> Setelah Teknisi Pulang kunjungan service luar, teknisi wajib mengisi form yang diberikan accounting terkait dengan kunjungan service luar
