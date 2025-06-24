@@ -9,3 +9,5 @@
 7. Di Hari H, Admin Service wajib menghubungi konsumen terlebih dahulu apakah konsumen tersebut ada dirumah atau tidak, jikalau konsumen tersebut tidak ada dirumah atau mengcancel atau mengganti jadwal, admin service wajib mengkonfirmasi kembali kepada kabag service terkait jadwal tersebut
 8. Admin Service harus mengkonfirmasi kembali kepada konsumen setelah kabag service memberitahukan untuk penggantian jadwal nya
 9. Jika konsumen sudah OK dengan penggantian jadwalnya maka admin service wajib untuk mengubah jadwal dan mengkonfirmasi kembali kepada teknisi
+10. Sebelum teknisi melakukan kunjungan, teknisi akan meminta bantuan kepada admin service terkait dengan spart yang akan dibawa (Khusus untuk Barang yang tidak **Garansi**). setelah itu admin service wajib melakukan penginputan mutasi untuk pembelian spart service luar
+11. setelah melakukan penginputan, admin service wajib mengkonfirmasi kepada admin spart bahwasannya ada mutasi Service Luar(SL). setelah barangnya turun, admin service bertugas untuk membagikan mutasi spart **SL** dan melakukan pengecekan bersama teknisi sebelum melakukan kunjungan
