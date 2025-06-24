@@ -6,4 +6,4 @@
 5. setelah memastikan jadwal untuk service luar, admin service wajib mengkonfirmasi kembali kepada konsumen terkait dengan jadwal untuk service luar
 6. setelah OK dari konsumen dan kabag service, admin service wajib mencatat data diri konsumen dan di tempelkan data tersebut pada mading khusus service luar (admin service wajib konfirmasi kepada teknisi terkait jadwal service luar)
 FIX: (saran : di catat dan di tempel pada tempel di mading, simpan data tersebut di excel)
-
+7. Di Hari H, Admin Service wajib menghubungi konsumen terlebih dahulu apakah konsumen tersebut ada dirumah atau tidak, jikalau konsumen tersebut tidak ada dirumah atau mengcancel atau mengganti jadwal, admin service wajib mengkonfirmasi kembali kepada kabag service terkait jadwal tersebut
