@@ -1,4 +1,4 @@
-## Perbaikan Service Luar
+# Perbaikan Service Luar
 1. konsumen yang menginginkan Service dirumah, admin service wajib mengkonfirmasi terlebih dahulu kepada konsumen terkait perbaikan barang yang ingin diperbaiki
 2. tanyakan kepada konsumen perbaikan barang apa yang ingin diperbaiki 
 3. tanyakan data lengkap konsumen seperti nama, no hp , alamat lengkap, kerusakan barang melalui via telpon ataupun chat whatsapp serta mintakan share lokasi rumah kepada konsumen
