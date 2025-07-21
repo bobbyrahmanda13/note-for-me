@@ -13,9 +13,9 @@
 > Jika barang hilang itu diganti sama admin atau di koordinasikan dengan teknisi
 
 7. Tanyakan ke konsumen apakah barang nya itu mau ditunggu atau ditinggal
-- Untuk barang yang ditunggu :
-  - Selesai print, minta konsumen untuk menunggu
+<ul> Untuk barang yang ditunggu :</ul>
+  <li>Selesai print, minta konsumen untuk menunggu</li>
   - untuk nota service terdiri dari 4 :
-  a. kertas putih dan kertas pink disimpan oleh admin
+  kertas putih dan kertas pink disimpan oleh admin
 
 
