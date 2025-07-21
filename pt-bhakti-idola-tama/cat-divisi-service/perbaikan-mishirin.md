@@ -3,9 +3,9 @@
 2. Admin bawa kertas kecil
 3. Tanyakan ke konsumen (nama, no. hp, alamat utama, kerusakannya apa)
 4. Check kelengkapan nya apa saja 
-   - Miyako : Alpen, sendok, steamer, tekong, innerbox (lengkap)(apa yang terlihat)
-   - Rinnai : Innerbox / masterbox, isi 1 set kompor rinnai, dan selang regulator
-   - Shimizu : Mesin dan innerbox / masterbox
+   * Miyako : Alpen, sendok, steamer, tekong, innerbox (lengkap)(apa yang terlihat)
+   * Rinnai : Innerbox / masterbox, isi 1 set kompor rinnai, dan selang regulator
+   * Shimizu : Mesin dan innerbox / masterbox
 5. setelah itu input ke program
 6. proses dan print
 
@@ -16,6 +16,8 @@
 * Untuk barang yang ditunggu :
   * Selesai print, minta konsumen untuk menunggu
   * untuk nota service terdiri dari 4 :
-  * kertas putih dan kertas pink disimpan oleh admin
+    * kertas putih dan kertas pink disimpan oleh admin
+    * kertas kuning diberikan ke teknisi 
+    > [!NOTE] angka nota service pada sebelah kanan atas yang di tempelkan pada barang (bisa ditempel pada innerbox yang dibawa oleh konsumen)
 
 
