@@ -6,9 +6,15 @@
    - Miyako : Alpen, sendok, steamer, tekong, innerbox (lengkap)(apa yang terlihat)
    - Rinnai : Innerbox / masterbox, isi 1 set kompor rinnai, dan selang regulator
    - Shimizu : Mesin dan innerbox / masterbox
+5. setelah itu input ke program
+6. proses dan print
+
 > [!NOTE]
 > Jika barang hilang itu diganti sama admin atau di koordinasikan dengan teknisi
 
-5. Tanyakan ke konsumen apakah barang nya itu mau ditunggu atau ditinggal
-- [-] testin
+7. Tanyakan ke konsumen apakah barang nya itu mau ditunggu atau ditinggal
+- U/ barang yang ditunggu :
+  - Selesai print, minta konsumen untuk menunggu
+  - untuk nota service terdiri dari 4 :
+   - kertas putih dan kertas pink disimpan oleh admin
 
