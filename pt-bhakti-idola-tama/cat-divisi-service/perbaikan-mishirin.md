@@ -43,7 +43,7 @@
 > * jikalau konsumen tiba-tiba ingin meninggalkan barang yang ditunggu berikan kertas pink yang sudah disimpan oleh admin dan semua jenis warna kertas **nota service** ditanda tangani pada bagian penyerahan barang dan kertas pink nya diberikan ke konsumen serta di infokan terkait estimasi perbaikan dan di infokan ke konsumen bahwa pembayaran via **Transfer** dan QRIS **QRIS**
 
  * Untuk barang yang sudah dicheck kerusakannya :
-  * admin service wajib menginfokan kepada konsumen terkait dengan estimasi biaya perbaikan baik itu barang yang ditunggu ataupun barang yang ditinggal ( barang yang ditinggal di infokan melalui via telfon atau chat WhatsApp (WA))
-  * admin service juga wajib memberi tahukan atau menginfokan ke konsumen terkait spart yang dibeli
-  * admin service wajib memvalidasikan atau memastikan apakah setuju dengna biaya yang sudah diinfokan (jika setuju maka beritahukan atau koordinasikan dengan teknisi) 
-  * dan jika tidak setuju dengan biaya perbaikannya maka harus dikoordinasikan dengan teknisi
+   * admin service wajib menginfokan kepada konsumen terkait dengan estimasi biaya perbaikan baik itu barang yang ditunggu ataupun barang yang ditinggal ( barang yang ditinggal di infokan melalui via telfon atau chat WhatsApp (WA))
+   * admin service juga wajib memberi tahukan atau menginfokan ke konsumen terkait spart yang dibeli
+   * admin service wajib memvalidasikan atau memastikan apakah setuju dengna biaya yang sudah diinfokan (jika setuju maka beritahukan atau koordinasikan dengan teknisi) 
+   * dan jika tidak setuju dengan biaya perbaikannya maka harus dikoordinasikan dengan teknisi
