@@ -29,7 +29,7 @@
  * kertas pink diberikan ke konsumen dan diinfokan untuk menunggu telpon dari admin terkait dengna estimasi harga perbaikan barang.
 
 > [!NOTE]
-> * MIYAKO = Service Gratis
+> * Miyako = Service Gratis
 > * Shimizu = Service Gratis
 > * Rinnai = 
 >   * Seri RI-2, RI-5, RI-6 RI-7 = biaya service 44.400
