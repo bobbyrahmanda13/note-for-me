@@ -10,5 +10,5 @@
 > Jika barang hilang itu diganti sama admin atau di koordinasikan dengan teknisi
 
 5. Tanyakan ke konsumen apakah barang nya itu mau ditunggu atau ditinggal
-   
+- [-] testin
 
