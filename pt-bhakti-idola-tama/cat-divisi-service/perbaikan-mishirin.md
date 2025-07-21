@@ -36,5 +36,8 @@
 >   * untuk kompor import seperti RR-50, RH, kompor tanam = biaya service 83.250
 >   * selain yang di atas harganya lebih dari 83.250 (biasanya 111.000)
 
- 3. kertas kuning ditempel di barang 
+ 3. kertas kuning ditempel di barang atau di innergox dan diberikan ke teknisi serta di infokan angka di nota service
 
+> [!NOTE]
+> * Kertas hijau baik barang yang ditunggu ataupun ditinggal dipisahkan dan diarsipkan
+> * jikalau konsumen tiba-tiba ingin meninggalkan barang yang ditunggu berikan kertas pink yang sudah disimpan oleh admin dan semua jenis warna kertas **nota service** 
