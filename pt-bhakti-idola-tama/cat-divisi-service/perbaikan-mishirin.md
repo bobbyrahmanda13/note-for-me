@@ -40,4 +40,6 @@
 
 > [!NOTE]
 > * Kertas hijau baik barang yang ditunggu ataupun ditinggal dipisahkan dan diarsipkan
-> * jikalau konsumen tiba-tiba ingin meninggalkan barang yang ditunggu berikan kertas pink yang sudah disimpan oleh admin dan semua jenis warna kertas **nota service** 
+> * jikalau konsumen tiba-tiba ingin meninggalkan barang yang ditunggu berikan kertas pink yang sudah disimpan oleh admin dan semua jenis warna kertas **nota service** ditanda tangani pada bagian penyerahan barang dan kertas pink nya diberikan ke konsumen serta di infokan terkait estimasi perbaikan dan di infokan ke konsumen bahwa pembayaran via **Transfer** dan QRIS **QRIS**
+
+
