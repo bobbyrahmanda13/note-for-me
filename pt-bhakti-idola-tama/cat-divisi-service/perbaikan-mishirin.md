@@ -24,3 +24,14 @@
 > [!NOTE]
 > angka nota service pada sebelah kanan atas yang di tempelkan pada barang (bisa ditempel pada innerbox yang dibawa oleh konsumen)
 
+* Untuk barang yang ditinggal:
+ * kertas putih disimpan oleh admin ditempat khusus barang tinggal.
+ * kertas pink diberikan ke konsumen dan diinfokan untuk menunggu telpon dari admin terkait dengna estimasi harga perbaikan barang.
+
+> [!NOTE]
+> * MIYAKO = Service Gratis
+> * Shimizu = Service Gratis
+> * Rinnai = 
+>   * Seri RI-2, RI-5, RI-6 RI-7 = biaya service 44.400
+>   * untuk kompor import seperti RR-50, RH, kompor tanam = biaya service 83.250
+>   * selain yang di atas harganya lebih dari 83.250 (biasanya 111.000)
