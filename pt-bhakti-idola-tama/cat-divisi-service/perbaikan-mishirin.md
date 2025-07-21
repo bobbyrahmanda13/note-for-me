@@ -18,8 +18,10 @@
   * untuk nota service terdiri dari 4 :
     * kertas putih dan kertas pink disimpan oleh admin
     * kertas kuning diberikan ke teknisi 
-    > [!NOTE]
-    > angka nota service pada sebelah kanan atas yang di tempelkan pada barang (bisa ditempel pada innerbox yang dibawa oleh konsumen)
+
+> [!NOTE]
+> angka nota service pada sebelah kanan atas yang di tempelkan pada barang (bisa ditempel pada innerbox yang dibawa oleh konsumen)
+
     * barang yang sudah ditempelkan kertas kuning dibawa ke teknisi dan diberitahukan kepada teknisi kerusakannya apa dan barang yang dibawa itu ditunggu
     * infokan ke konsumen barang yang sudah diberikan ke teknisi dan mohon untuk ditunggu dan di check kerusakan barang oleh teknisi
 
