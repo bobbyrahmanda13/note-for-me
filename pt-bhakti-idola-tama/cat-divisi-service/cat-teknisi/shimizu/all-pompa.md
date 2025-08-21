@@ -3,7 +3,7 @@
 > [!NOTE]
 > ### pompa sparepart pressure switch 
 > #### cara kerjanya 
->    - Bagus :
+>    - Bagus 
 >       - jika air dihidupkan maka lansung keluar
 >       - jika air dimatikan pompa lansung mati
 >   - Tidak Bagus :
@@ -24,5 +24,10 @@
 > [!NOTE]
 > - Jika pada air masuk / air di bagian hisap tidak boleh ada sedikitpun **Bocor** / tempat udara masuk, jika ada kebocoran maka air tidak akan terhisap atau naik.
 > > jadi tidak boleh bocor
-> tapi pada air keluar tidak apa-apa karena air akan keluar paling-paling bocor dan airnya keluar kecil
+> tapi pada air keluar tidak apa-apa karena air akan keluar paling-paling bocor dan airnya keluar kecil.
+> Perhatikan karet yg ada di antara motor dan casing jika terlalu maju hingga mendekat atau nempel pada casing maka mundurkan dan letakkan di di tengah2 antara motor dan casing
+> jika motor lemah dan watt nya tinggi dan putaran bolak balik maka **caranya yaa ganti motor** tidak ada lagi cara lain.
 
+> [!NOTE]
+> #### hal yabg harus di check untuk pompa mati total / impeller macet 
+> 
