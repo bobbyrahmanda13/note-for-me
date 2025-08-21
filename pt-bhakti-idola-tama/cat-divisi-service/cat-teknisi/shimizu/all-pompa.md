@@ -24,5 +24,5 @@
 > [!NOTE]
 > - Jika pada air masuk / air di bagian hisap tidak boleh ada sedikitpun **Bocor** / tempat udara masuk, jika ada kebocoran maka air tidak akan terhisap atau naik.
 > > jadi tidak boleh bocor
-
+> tapi pada air keluar tidak apa-apa karena air akan keluar paling-paling bocor dan airnya keluar kecil
 
