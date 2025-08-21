@@ -18,4 +18,5 @@
 > - untuk pemasangan impeler pompa, untuk impeler harus diberi jarak sedikit untuk mempaskannya harus pukul dibawah casing untuk melancarkan perputaran impeller
 > - jika perptaran motornya lembut / lemah maka kemungkinan motornya bermasalah 
 
-
+> [!WARNING]
+> UNTUK IMPELER MACET ATAU MOTOR MATI TOTAL CHECK DULU KIPAS YG ADA BAUT NYA DI CHECK PAKE OBENG ITU MUTER ATAU TIDAK, JIKA TIDAK MAKA IMPELLER NYA BERMASALAH JIKA LANCAR KEMUNGKINAN YG LAIN BERMASALAH YG ITU HARUS BENER2 DI CHECK DULU
