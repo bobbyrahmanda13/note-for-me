@@ -23,5 +23,6 @@
 
 > [!NOTE]
 > - Jika pada air masuk / air di bagian hisap tidak boleh ada sedikitpun **Bocor** / tempat udara masuk, jika ada kebocoran maka air tidak akan terhisap atau naik.
-> >> jadi tidak boleh bocor
+> > jadi tidak boleh bocor
+
 
