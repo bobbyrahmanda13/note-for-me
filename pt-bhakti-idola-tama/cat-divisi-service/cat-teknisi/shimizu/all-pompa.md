@@ -20,3 +20,8 @@
 
 > [!WARNING]
 > UNTUK IMPELER MACET ATAU MOTOR MATI TOTAL CHECK DULU KIPAS YG ADA BAUT NYA DI CHECK PAKE OBENG ITU MUTER ATAU TIDAK, JIKA TIDAK MAKA IMPELLER NYA BERMASALAH JIKA LANCAR KEMUNGKINAN YG LAIN BERMASALAH YG ITU HARUS BENER2 DI CHECK DULU
+
+> [!NOTE]
+> - Jika pada air masuk / air di bagian hisap tidak boleh ada sedikitpun **Bocor** / tempat udara masuk, jika ada kebocoran maka air tidak akan terhisap atau naik.
+> >> jadi tidak boleh bocor
+
