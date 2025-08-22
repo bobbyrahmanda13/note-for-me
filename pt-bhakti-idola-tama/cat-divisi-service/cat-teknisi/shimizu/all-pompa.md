@@ -27,7 +27,9 @@
 > tapi pada air keluar tidak apa-apa karena air akan keluar paling-paling bocor dan airnya keluar kecil.
 > Perhatikan karet yg ada di antara motor dan casing jika terlalu maju hingga mendekat atau nempel pada casing maka mundurkan dan letakkan di di tengah2 antara motor dan casing
 > jika motor lemah dan watt nya tinggi dan putaran bolak balik maka **caranya yaa ganti motor** tidak ada lagi cara lain.
+> jika motor mati (kemaren ada kasus motor mati) sewaktu di colok ga hidup, jadi untuk analisanya mencoba bongkar kapacitor nyanjadi coba ganti kapasitor dengan kapasitor tester ternyata hidup, itu berarti capacitor nyanrusak
+> ada lagi motor yang hidup - mati tapi pengaduannya hidup trus mati, maka untuk test nya maka motor / pompa tersebut di coba hidupkan lalu tunggu apakah bener2 mati atau tidak bagus nya dibiarkan selama 30 mnt jika sudah lewat berarti motor aman jika tidak mungkin ada masalah di motor nya, hasil dari analisa itu motor nya lemah jadi harus / beli motor nyaa 
 
 > [!NOTE]
-> #### hal yabg harus di check untuk pompa mati total / impeller macet 
+> #### hal yang harus di check untuk pompa mati total / impeller macet 
 > 
