@@ -32,4 +32,10 @@
 
 > [!NOTE]
 > #### hal yang harus di check untuk pompa mati total / impeller macet 
-> 
+> - coba baut yang ada di belakang deket kipas nya pompa check dengan obeng bunga apakah itu bergerak atau tidak 
+> - jika tidak bergerak maka impeller pada pompa melekat alias impeller nyabjuga tidak bergerak
+> - jadi karena tidak bisa diputar maka perbaiki dahulu
+> - buka dibagian impeller
+> - setelah dibuka pasang kan kembali impeller tersebut lalu di pukul2 casing atau ass motor nya pelan2 agar bisa memutar lagi dan pastikan memutar nya mulus
+> - dan harus di beri jarak sedikit mungkin dan ada ganjelan yg itu harus lebih tinggi sedikit dari pada impeller
+> done
