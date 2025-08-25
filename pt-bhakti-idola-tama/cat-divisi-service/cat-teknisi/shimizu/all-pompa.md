@@ -56,4 +56,3 @@
 > - Kasus motor mati
 >   - pelaporan atau pengaduan dari konsumen itu motor nya mati setelah di check impeler aman, di check body dan lain2 aman, sewaktu di hidupkan mati motor nyaa
 >    - berniat ganti motor tapi di check dulu capacitor nya
->    - 
