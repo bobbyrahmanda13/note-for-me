@@ -39,3 +39,15 @@
 > - setelah dibuka pasang kan kembali impeller tersebut lalu di pukul2 casing atau ass motor nya pelan2 agar bisa memutar lagi dan pastikan memutar nya mulus
 > - dan harus di beri jarak sedikit mungkin dan ada ganjelan yg itu harus lebih tinggi sedikit dari pada impeller
 > done
+
+> [!NOTE]
+> ### Air Tidak Naik / Air Kecil
+>    - check selang hisap / kalau menggunakan klep yang ada di pipa air-
+>    - selang tersumbat / motor lemah
+>    - kalau motor tinggi daya watt nya maka motor lemah
+>    - check impeler = kenapa karena jika impeler tidak memutar maka motor akan berat memutar nya dan akan mengakibat kan panas dan daya watt naik dan bisa mengakibatkan konslet pada listrik rumah anda, tapi jika konslet pada pompanya maka paling motor nya mati total dan tidak bisa hidup lagi
+>    - check pembatas air di casing yaitu pembatas masuk dan keluar
+
+
+> [!WARNING]
+> HATI HATI DALAM PEMASANGAN KABEL POMPA PADA DAERAH CAPACITOR JANGAN SAMPAI SALAH KABEL DAN SALAH PASANG 
