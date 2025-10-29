@@ -1,0 +1,186 @@
+**# Rekap BPS untuk Sopir**
+1. Menu Proses
+2. Kembalikan barang ke Konsumen
+3. Pilih "Periode Awal Bulan"
+4. Pilih "No BPS" yang di keluarkan
+5. lalu centang
+6. lalu pilih "Proses"
+7. pilih Document Terbaru
+
+**# Untuk Mengambil Rekapan**
+1. Menu Laporan 
+2. Rekap
+3. Pilih "Pengiriman Divisi Retur Ke Dealer"
+4. Pilih No Document Terbaru
+5. Pilih "Proses Laporan"
+6. lalu print dengan kertas A4
+
+**# Isi Form LDSL**
+**! Note = Untuk Divisi Retur yg di isi hanyalah kolom 1**
+
+1. isi kode cabang 
+2. Jenis Mobil = **L300**
+3. Plat Nomor Mobil = **BA 9254 AB**
+4. Kilometer Terakhir -> biasanya di kirim oleh **supir** ke WA di HP (retur) / dikirim ke WA Pribadi
+5. Centang BPS -> dan isi berapa lembar BPS yang dibawa oleh Supir
+6. isi dengan "No BPS yang 4 angka di belakang nya" jadi butuh Range dari no BPS yang dibawa oleh supir
+7. Uang jalan -> ini di isi oleh divisi ekspedisi
+8. lalu tulis nama **Supir** nya siapa yang membawa mobil retur nantinya contoh "Oki"
+9. lalu "Tanda Tangan" oleh **Supir** dan **Kabag Retur**
+
+**! Note = Pastikan **BPS Kosong** Standby (biasanya 40 atau tergantung kondisi)**
+
+=====================================================================================================
+
+**# Pengiriman BPS ke Pusat**
+1. Sesuaikan "BPS" yang dibawah oleh supir
+2. cocokkan dengan rekapannya
+3. kalau ada "BPS" yang belum selesai dimasukkan ke **Program**
+   - Menu Proses
+   - Kembalikan Barang ke Konsumen
+   - pilih "Kategori nya itu **Masuk**"
+   - pada "No Document" pilih salah satu yang dalam satu **No Document**
+**! Note = Syarat rekap untuk jakarta (Pusat) Harus **Stempel dan Tanda Tangan** harus lengkap)** 
+**Kendala**: Tidak ada Stempel
+**Solved** : Harus dimasukkan kembali **No BPS** itu lagi (alias di input lagi)
+**Caranya**: - Pilih **No BPS** lalu **Uncheck**
+             - Pilih **No BPS** yang ingin dimasukkan kembali
+             - klik "Proses"
+**! Note = jika tidak muncul di list "No Document" berarti Barang atau "No BPS" sudah Masuk**
+**Next: Setelah selesai yang diatas maka lanjut**
+4. isi "No BPS" pada "Kertas BPS Putih" sesuai dengan "Kertas BPS Pink"
+5. untuk susunan Urutan BPS yang diatas itu adalah kertas BPS Pink dan dibawahnya itu Kertas BPS Putih
+6. lalu urutkan "No BPS" dari yang kecil ke besar
+**Next: Kembali ke Program**
+7. Pilih "Menu Laporan"
+8. pilih "Rekap Pengiriman BPS - F. Penggantian - PBNS"
+9. tgl nya itu (periode nya berdasarkan rekapan pengiriman retur ke dealer), contoh tgl 19/8/2024 s/d 19/8/2024 jika itu terjadi di hari yang sama, jika itu dilakukan sore kemungkinan tgl nya ganti seperti 18/8/2024 s/d 19/8/2024
+10. untuk "Update" tidak dicentang -> "Proses" -> "Preview" (Rekap Pengiriman Dokumen ke Kantor)
+11. Setelah di check dan sudah sesuai semuanya, => yang di check itu adalah "No Kontrol", "No BPS", "No Dealer", "Tanda Tangan", dan "Stempel"
+12. jika sudah di OKE, centang "Update" -> pilih "Proses Laporan"
+
+**Kendala**: Jika sudah centang update dan print terjadi error, maka "Preview" tidak bisa dipanggil atau di apa-apain lagi
+**Solved**: Simpan PDF -> Untuk **Backup** -> pilih "Export Report"
+
+# Memulai untuk memproses Barang yang Baru di Jemput oleh supir dari Dealer
+1. Urutkan Kertas BPS Pink, Barang yang baru di jemput, karena kertas BPS Putih itu tinggal di dealer
+2. BPS tersebut di isi oleh supir atau knek (Anggota Retur yang pergi Ambil Barang)
+3. Format yang di tulis nanti di Sticker tempel (Rabit)
+
+Format : 
+No Kontrol / Nama Dealer (Left)
+Nama Barang (Center)
+Kelengkapan (Center)
+Pengaduan (Center)
+
+4. Pembagian BPS ke Teknisi -> karena di program 1 BPS = 1 Teknisi
+5. Susunan BPS harus Pastikan Urut
+
+**! Note = Infokan No BPS Terakhir yang dipakai ke supir/knek, jadi mereka harus menggunakan No BPS Selanjutnya**
+
+6. Sesuaikan BPS dan Barang Sesuai, jika tidak sesuai itu bisa di pastikan ada **Kendala**
+
+***Next= Lanjut ke "Program"**
+**# Input Barang BPS Retur**
+1. Menu Input
+2. Input BPS
+3. Cocokkan dengan inputan sebelumnya (no kontrol BPS) lihat tanggal kemaren
+4. No Kontrol Field -> PDG -> 009184a (ini no kontrol bps) => adalah no autonumber dari Kertas BPS
+5. Kode Dealer -> ketik nama Dealer (Ex: Afif) -> lalu "Enter"
+6. pada Area Kode Barang -> lalu klik
+7. dan pada keyboard press "Insert" -> Pilih nama Barang (Kode Barang)
+8. isi field (Qty) = jumlah barang
+9. isi field (Alasan) = alasan barang nya kenapa
+10. isi field (Keterangan) = keterangan biasanya barang tersebut kenapa bisa dibilang "penyok" atau apa gitu
+
+**Kendala**: Hanya 1 kode barang
+**Solved** : Jika dalam BPS ada Kode Barang yang sama maka jadikan 1 saja
+
+11. Setelah di check semuanya, pilih "Simpan" -> Yes -> Baru No BPS Muncul dan baru Dicatat pada Kertas BPS Pink (Ex: BPS/PDG/2024/08/0120) yang di tulis pada Kertas BPS Pink hanya (2024/08/0120) saja
+
+12. Jika salah maka harus dirubah caranya -> Panggil No BPS Tadi lalu **Perbaiki** apa yang ingin di ubah lalu tekan atau klik rubah
+
+13. Setelah input Barang selesai
+    - Print Laporan Harian Service Teknisi
+    - Program -> Menu Laporan -> Laporan Service -> Laporan Harian Kerja Service -> Pertanggal Hari ini
+    - Proses Laporan
+    - centang "No BPS" nya -> lalu pilih Teknisi
+    - Lalu "cetak" dan Print kertas A4
+
+
+# Scan BPS pink untuk Backup dan Arsip
+1. Kalau Sudah input BPS dan check no Seri pada barang yang ingin dikerjakan oleh teknisi serta pembagian barang tersebut kepada teknisi 
+2. lakukan scan bps Pink
+3. dan simpan di folder Arsip BPS pink
+
+**!NOTE = Jika Misalnya dalam 1 BPS ada barang yang belum selesai**
+
+**! NOTE = BPS Putih => di Pegang Oleh TOKO / DEALER**
+- Maka BPS Pink akan masuk kembali yang sudah ttd dan Stempel dan masih jangka 7 hari, maka nanti barangnya / BPS nya dimasukkan kembali ke program menu input bps
+
+**# Yang Discan Oleh Divisi Retur untuk Harian**
+1. Rekap Pengiriman Divisi Retur ke Dealer (Sebelum Supir Pergi)
+2. BPS Pink
+3. BPS Pusat (alias bps yang sudah lengkap ttd dan stempel nya dan barangnya sudah di antar, dan dealer sudah mengembalikan BPS putih yang awalnya dia yang pegang)
+
+**! NOTE :**
+- biasanya kan kita kasih nomor yang ada di program itu ada di kertas BPS Pink dan pada kertas BPS putih belum maka kita harus menyalin "No BPS" yang ada di kertas BPS Pink ke Kertas BPS Putih sambil Melakukan Check Tanda Tangan dan Stempel
+
+**yang harus kita check**
+- No BPS pada kertas Pink dan Putih Harus **SAMA**
+- Nama Dealer
+- Tgl BPS
+- Tanda Tangan dan Stempel (Karena di Scan dan dikirim ke pusat)
+- yang stempel tidak jelas maka Perangkat Scanner nya (High Speed Scanner) harus warna dan harus Jelas Semuanya
+
+**# Input Barang Selesai diperbaiki dan Mau Diantar**
+1. Pergi ke Teknisi dan Konfirmasi Barang yang **Sudah Selesai** diperbaiki dan mau diantar ke Dealer
+2. Jika Sudah siap biasanya ceklist di bps pink ( aman di ceklist)(asal rapi)
+3. lanjut Program 
+
+   - Menu Input
+   - Input Returan dari Pelanggan V2
+   - field "No BPS" (Panggil No BPS) => no belakang BPS (No Kontrol)
+   - select "No BPS" yg diketik (dicari) -> klik -> OK
+   - pilih "Kategori Retur" pilih "Service"
+   - pilih sesuai service-an 
+   - isi "Qty" -> kalau barang nya garansi "Checklist garansi" kalau tidak garansi "Unchecklist"
+   - isi "No Seri"
+   -> jika "ada" isi no Seri 
+   -> jika "tidak ada" buat "tidak ada/jelas"
+   -> jika "tidak jelas" buat "tidak ada/jelas"
+   - klik "panah" "->"
+   - pilih "pengaduan" -> sesuaikan dengan buku yang ada di teknisi (bisa ditanyakan juga)
+   **!Note = untuk pengaduan sesuaikan dengan yang ada (kasus)**
+   - setelah pilih "Pengaduan" -> pilih "OK"
+   - Simpan
+
+4. lanjut "Menu Proses" -> ambil "service" -> "Selesaikan Service"
+5. muncul di list "selesaikan service"
+**!Note = jika kalau tidak muncul berarti salah di "Kategori Retur" pada Menu "Input Retur Pelanggan V2"**
+6. lalu pada list "selesai service" -> klik 2 kali
+7. pilih button panah "->"
+8. pilih "Pengaduan" -> "Penyebab" -> "Perbaikan"
+9. berarti cocok2an saja dengan keadaan barang dan sesuai dari laporan dari teknisinya
+10. pilih kode teknisi "..." <- pilih teknisi yang mengerjakan
+11. klik "proses"
+12. kalau ada yang ingin diubah sebelum selesaikan service masih bisa di ubah
+
+**caranya :**
+13. kembali ke **menu input returan pelanggan V2**
+14. panggil No Info
+15. ubah apa yang ingin di ubah
+16. jika sudah selesai
+17. pilih tombol "ubah"
+
+
+
+# Untuk Panduan mengisi kategori diatas maka 
+1. pilih menu file Induk -> lain2 -> master service
+2. pilih tab "Master Service"
+3. lalu cari kerusakan
+
+**!Note = Jika ingin mensyncronkan Maka **
+1. pilih Tab "Syncron Master Service" -> jika ada update aja
+2. pilih button "Sync" -> tunggu
+3. lalu keluarkan programnya dan buka kembali
