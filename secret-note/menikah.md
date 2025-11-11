@@ -33,4 +33,8 @@
 3. Tidak bisa terlalu dingin
 4. Tidak bisa makan beberapa Jenis ikan di Laut
 
+#### Rencana Usaha
+1. Grosiran
+2. Rumah Kos 
+3. Melanjutkan Konter
 
