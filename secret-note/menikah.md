@@ -26,3 +26,11 @@
 2. Parfum Myokonos ( Satin Blanc, Royal Ispahan, Utopia, Echanted), Parfum biasa juga bisa asal baunya suka
 3. Hand Body Citra
 4. Pembalut (Softex)(cocok)
+
+#### Alergi
+1. Tidak bisa makan udang
+2. Tidak bisa debu karena hidung sensitif
+3. Tidak bisa terlalu dingin
+4. Tidak bisa makan beberapa Jenis ikan di Laut
+
+
