@@ -11,22 +11,22 @@
 
 ### Perhitungan Dana Darurat
 ```math
-Dana Darurat = Pengeluaran x 3 (Minimal) 
+Dana Darurat = Pengeluaran × 3 (Minimal) 
 ```
 
 ```math
-Dana Darurat = Pengeluaran x 12 (Ideal) 
+Dana Darurat = Pengeluaran × 12 (Ideal) 
 
 ```
 ```math
 Example 1 :
-Pengeluaran = 3jt x 3 = 9jt (Minimal)
+Pengeluaran = 3jt × 3 = 9jt (Minimal)
 
 ```
 
 ```math
 Example 2 :
-Pengeluaran = 3jt x 12 = 36jt (Ideal)
+Pengeluaran = 3jt × 12 = 36jt (Ideal)
 
 ```
 #### Halbyang dilakuin
