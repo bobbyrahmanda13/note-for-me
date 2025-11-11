@@ -19,4 +19,10 @@
 8. Lipstik No 19 Have a Blush Wardah
 9. Lipstik OMG 05 Scarlet
 10. Lipstik Somethinc 02 hustle
-11. Lipstik Azarine 06 cherry 
+11. Lipstik Azarine 06 cherry cupcake
+
+#### List Barang Perlengkapan digunakan oleh Windy An-nisa'
+1. Facial wash (Axis Y face Wash)
+2. Parfum Myokonos ( Satin Blanc, Royal Ispahan, Utopia, Echanted), Parfum biasa juga bisa asal baunya suka
+3. Hand Body Citra
+4. Pembalut (Softex)(cocok)
